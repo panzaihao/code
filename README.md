@@ -155,8 +155,7 @@ tip：如果想改动代码，在src\router\index.js里面改动主页面的侧�
 git clone https://github.com/panzaihao/code.git
 
 # enter the project directory
-cd daima
-
+cd code
 # install dependency
 npm install
 
