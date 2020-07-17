@@ -152,7 +152,7 @@ tip：如果想改动代码，在src\router\index.js里面改动主页面的侧�
 如果想添加新功能，在views文件夹里面新建文件夹，把代码文件往里放，再改变侧边栏就OK了
 ```bash
 # clone the project
-git clone https://github.com/panzaihao/-.git
+git clone https://github.com/panzaihao/code.git
 
 # enter the project directory
 cd daima
